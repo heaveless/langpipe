@@ -1,14 +1,20 @@
-# langpipe
 speech to speech - (S2ST) system
 
 ## Start Applicaction
 
-- install requirements:
-    
+## Step 1 - dependencies
+
+- Clone repo
+
+```
+git clone https://github.com/heaveless/langpipe.git
+```
+
+- Install requirements:
+
 ```bash
 pip install -r requirements
 ```
-
 ## Step 2 - start service local
 
 - Run service in development
